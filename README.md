@@ -1,2 +1,1 @@
-# Basic-of-Python
-Expiations of the Python Programming 
+Time Series Analysis
